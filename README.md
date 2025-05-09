@@ -20,7 +20,23 @@
  ![alt text](Dashboard2.png)
 
 ### 2. Crear contactos
+ 2.1 Para crear contactos en Odoo es muy sencillo, primero diríjase al apartado de contactos que se encuentra en el dashboard.
+ ![alt text](Dashboard3.png)
+ 
+ 2.2 Dentro, podrá encontrar todos los contactos tenga, en este caso solo cuenta con el usuario suyo y el de la empresa, para agregar más debera de dirigirse al botón de "Nuevo" en la esquina superior izquierda.
+ ![alt text](Contactos.png)
 
+ 2.3 Luego deberá rellenar los datos de contacto y agregar etiquetas para su fácil localización e incluso puede agregar imagenes. Puede seleccionar si son personas o bien empresas en el apartado de arriba.
+ ![alt text](<Crear contacto.png>)
+
+ 2.4 Para agregarlos, Odoo automáticamente agregará los contactos a su listado, con ello ya tendría sus contactos subidos y listos para contactar.
+ ![alt text](Final.png)
+
+#### Dudas o consultas, por favor comunicarse con su Implementador asignado
+
+    Danny Gudiel
+    +502 5629-5475
+    gudieldanny4@gmail
 
 
 
