@@ -36,7 +36,7 @@
 
     Danny Gudiel
     +502 5629-5475
-    gudieldanny4@gmail
+    gudieldanny4@gmail.com
 
 
 
